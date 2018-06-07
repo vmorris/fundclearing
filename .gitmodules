@@ -1,0 +1,3 @@
+[submodule "fund_clearing_python_sdk"]
+	path = fund_clearing_python_sdk
+	url = https://github.com/vmorris/fund_clearing_python_sdk.git
